@@ -2,6 +2,6 @@
 
 echo ===========================================
 echo $PWD
-echo $groups
-echo $whoami
+$groups
+$whoami
 echo ===========================================
